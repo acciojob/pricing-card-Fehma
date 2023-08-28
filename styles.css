@@ -5,8 +5,9 @@ main{
 	padding:30px;
 	background-color:#f1f1f1;
 	margin:100px;
+}
+div{
 	box-shadow:10px 10px 10px #f1f1f1;
-;
 }
 img{
 	width:200px;
